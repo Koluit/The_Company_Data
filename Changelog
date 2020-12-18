@@ -1,0 +1,7 @@
+2020-12-17
+  -Corrected Age calculations
+  -Removed columns 
+    (Birthday, NameType, New_Salary2, rando, St_dt_temp, TermDate)
+  -Added Columns
+    Active Status field - 1= Active employee and 0= Terminated employee
+    
