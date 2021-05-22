@@ -1,3 +1,9 @@
+2021-05-22
+  -Fixed Zip Code so leading zero is added back into data
+  -Created basic diversity data (2021.06_Diversity)
+  -Created a Cost of Living Table (2021.06_COL_2021)
+  -Created mapping table for Job Profiles (2021.06_job_profile_mapping). Will add more details to these profiles in the future.
+
 2020-12-17
   -Corrected Age calculations
   -Removed columns 
