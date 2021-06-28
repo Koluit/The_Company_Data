@@ -11,3 +11,8 @@
   -Added Columns
     Active Status field - 1= Active employee and 0= Terminated employee
   -Converted 655 employees to terms from 1/1/2018-12/31/2021
+  -Created a new Technology Location "SanFran" and "Austin"
+  -New Job Title
+    Manager, Engineering
+    
+  
