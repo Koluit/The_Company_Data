@@ -1,17 +1,6 @@
-2021-05-22
-  -Fixed Zip Code so leading zero is added back into data
-  -Created basic diversity data (2021.06_Diversity)
-  -Created a Cost of Living Table (2021.06_COL_2021)
-  -Created mapping table for Job Profiles (2021.06_job_profile_mapping). Will add more details to these profiles in the future.
-
-2020-12-17
-  -Corrected Age calculations
-  -Removed columns 
-    (Birthday, NameType, New_Salary2, rando, St_dt_temp, TermDate)
-  -Added Columns
-    Active Status field - 1= Active employee and 0= Terminated employee
-  -Converted 655 employees to terms from 1/1/2018-12/31/2021
-  -Created a new Technology Location "SanFran" and "Austin"
+ 2021-06-28
+ -Added 446 new records
+ -Created a new Technology Location "SanFran" and "Austin"
   -New Job Title
     Manager, Engineering
     SVP, Technology
@@ -25,11 +14,37 @@
     Director, HR
     Director, Finance
     Chief Customer Officer
-
-
+  -Terminated - 688 workers up through 2023
+    Updated Term date and Active Status
   -Corrected 
     Manager Customer Service -> Manager, Customer Service
     Associate Account Manager from Manager to IC and updated Bonus %
+    Corrected CEO and CTO compensation
+    Moved location for CTO to Boulder
+
+
+2021-05-22
+  -Fixed Zip Code so leading zero is added back into data
+  -Created basic diversity data (2021.06_Diversity)
+  -Created a Cost of Living Table (2021.06_COL_2021)
+  -Created mapping table for Job Profiles (2021.06_job_profile_mapping). Will add more details to these profiles in the future.
+
+2020-12-17
+  -Corrected Age calculations
+  -Removed columns 
+    (Birthday, NameType, New_Salary2, rando, St_dt_temp, TermDate)
+  -Added Columns
+    Active Status field - 1= Active employee and 0= Terminated employee
+  -Converted 655 employees to terms from 1/1/2018-12/31/2021
+ 
+
+
+    
+  
+
+
+
+    
     
 
 
