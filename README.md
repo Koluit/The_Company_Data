@@ -15,7 +15,7 @@ Some example test cases where someone might use this dataset:
 
 ## Contributing
 
-
+Contributions are welcome! Please feel to open Issues if you see any problems with the data or if you are interested in adding new data sets please contact us below.
 
 
 
