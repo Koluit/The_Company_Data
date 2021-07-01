@@ -21,7 +21,7 @@ Contributions are welcome! Please feel to open Issues if you see any problems wi
 
 ## Contact
 
-Koluit - [@Koluit_](https://twitter.com/twitter_handle) - [Contact](https://koluit.com/about/contact/)
+Koluit - [@Koluit_](https://twitter.com/twitter_handle) - [Contact Us page](https://koluit.com/about/contact/)
 
 Project Link: [https://github.com/Koluit/The_Company_Data](https://github.com/Koluit/The_Company_Data)
 
