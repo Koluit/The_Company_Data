@@ -2,6 +2,12 @@
 "The Company data" is a dataset for HR related data. This data set will be expanded and updated over time.
 
 ## Usage
+<li>CompanyData.txt - Core HCM data</li>
+<li>2021.06_job_profile_mapping.txt - Job Profile and compensation mapping table</li>
+<li>2021.06_COL_2021.txt - Cost of Living Table</li>
+
+
+## Usage
 
 Some example test cases where someone might use this dataset:
 
