@@ -5,6 +5,7 @@
 <li>CompanyData.txt - Core HCM data</li>
 <li>2021.06_job_profile_mapping.txt - Job Profile and compensation mapping table</li>
 <li>2021.06_COL_2021.txt - Cost of Living Table</li>
+<li>Diversity.txt - Diversity demographic dataset for CompanyData</li>
 
 
 ## Usage
