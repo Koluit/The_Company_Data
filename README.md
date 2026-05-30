@@ -1,12 +1,14 @@
 # The_Company_Data
 "The Company data" is a dataset for HR related data. This data set will be expanded and updated over time.
 
-## Usage
-<li>CompanyData.txt - Core HCM data</li>
-<li>2021.06_job_profile_mapping.txt - Job Profile and compensation mapping table</li>
-<li>2021.06_COL_2021.txt - Cost of Living Table</li>
-<li>Diversity.txt - Diversity demographic dataset for CompanyData</li>
-<li>EngagementSurvey.txt- 19 Likert scale questions for Engagement Survey mockup.</li>
+## Files
+<li>CompanyData.tsv - Core HCM data</li>
+<li>2021.06_job_profile_mapping.tsv - Job Profile and compensation mapping table</li>
+<li>2021.06_COL_2021.tsv - Cost of Living Table</li>
+<li>Diversity.tsv - Diversity demographic dataset for CompanyData</li>
+<li>EngagementSurvey.tsv - 19 Likert scale questions for Engagement Survey mockup.</li>
+
+All data files are tab-separated values (TSV), encoded as UTF-8. They can be opened directly in Excel, pandas, R, or any text editor.
 
 
 ## Usage
