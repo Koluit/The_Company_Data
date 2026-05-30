@@ -1,0 +1,55 @@
+Department	Job_title	Job_Profile	Compensation	Level	Bonus %
+Corporate	CEO	JP_1000	500000	CSuite	1
+Corporate	HR Manager	JP_1001	100000	Manager	0.2
+Corporate	AR Specialist	JP_1002	65000	Individual Contributor	0.15
+Corporate	AP Specialist	JP_1003	65000	Individual Contributor	0.15
+Corporate	FP&A Analyst	JP_1004	70000	Individual Contributor	0.15
+Corporate	Coordinator	JP_1005	50000	Individual Contributor	0.15
+Corporate	HR Coordinator	JP_1006	50000	Individual Contributor	0.15
+Corporate	Counsel	JP_1007	220000	Individual Contributor	0.15
+Corporate	Finance Coordinator	JP_1008	55000	Individual Contributor	0.15
+Corporate	Accountant	JP_1009	85000	Individual Contributor	0.15
+Corporate	Specialist, Training and Development	JP_1010	70000	Individual Contributor	0.15
+Corporate	Manager, Corporate	JP_1011	120000	Manager	0.15
+Corporate	VP, Corporate	JP_1012	225000	VP	0.3
+Corporate	HR Generalist	JP_1013	75000	Individual Contributor	0.15
+Corporate	HR Analyst	JP_1014	65000	Individual Contributor	0.15
+Customer Service	Associate Account Manager	JP_1015	55000	Individual Contributor	0.15
+Customer Service	Account Manager	JP_1016	70000	Individual Contributor	0.15
+Customer Service	SVP, Customer Service	JP_1017	280000	SVP	0.3
+Customer Service	Senior Account Manager	JP_1018	100000	Senior	0.15
+Customer Service	Manager, Customer Service	JP_1019	85000	Manager	0.2
+Customer Service	CS Operations Specialist	JP_1020	80000	Individual Contributor	0.15
+Customer Service	Director, Customer Service	JP_1021	160000	Director	0.2
+Marketing	Graphic Designer	JP_1022	75000	Individual Contributor	0.15
+Marketing	Programmatic Marketing Specialist	JP_1023	70000	Individual Contributor	0.15
+Marketing	Copy Writer	JP_1024	85000	Individual Contributor	0.15
+Marketing	Associate, Marketing	JP_1025	120000	Associate	0.1
+Marketing	VP, Marketing	JP_1026	250000	VP	0.3
+Marketing	Manager, Marketing	JP_1027	130000	Manager	0.2
+Marketing	Director, Marketing	JP_1028	190000	Director	0.2
+Sales	Account Executive	JP_1029	85000	Individual Contributor	0.15
+Sales	Director, Sales	JP_1030	175000	Director	0.2
+Sales	Regional Sales Manager	JP_1031	140000	Manager	0.2
+Sales	Sales Manager	JP_1032	120000	Manager	0.2
+Sales	SVP, Sales	JP_1033	350000	SVP	0.3
+Sales	Sales Team Lead	JP_1034	95000	Senior	0.15
+Sales	Associate, Sales	JP_1035	75000	Associate	0.1
+Technology	CTO	JP_1036	400000	CSuite	0.5
+Technology	IT	JP_1037	80000	Individual Contributor	0.15
+Technology	Software Engineer	JP_1038	110000	Individual Contributor	0.15
+Technology	Director, Engineering	JP_1039	200000	Director	0.2
+Technology	Senior Software Engineer	JP_1040	140000	Senior	0.15
+Technology	VP, Technology	JP_1041	325000	VP	0.3
+Technology	Manager, Engineering	JP_1042	155000	Manager	0.2
+Technology	SVP, Technology	JP_1043	355000	SVP	0.3
+Marketing	Senior, Copy Writer	JP_1044	100000	Senior	0.15
+Marketing	Chief Marketing Officer	JP_1045	370000	CSuite	0.5
+Marketing	SVP, Marketing	JP_1046	325000	SVP	0.3
+Corporate	Manager, Finance	JP_1047	110000	Manager	0.2
+Corporate	Chief Financial Officer	JP_1048	390000	CSuite	0.5
+Corporate	Chief Human Resources Officer	JP_1049	380000	CSuite	0.5
+Corporate	Senior, Finance	JP_1050	110000	Senior	0.15
+Corporate	Director, HR	JP_1051	180000	Director	0.2
+Corporate	Director, Finance	JP_1052	190000	Director	0.2
+Customer Service	Chieft Customer Officer	JP_1053	380000	CSuite	0.5
